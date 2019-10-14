@@ -4,6 +4,8 @@
     <entry projectName="cold-chain" firstStartUp="false" />
     <entry projectName="config-repo" firstStartUp="false" />
     <entry projectName="healthcloud-archetype" firstStartUp="false" />
+    <entry projectName="hello-spring-cloud" firstStartUp="false" />
+    <entry projectName="hello-spring-cloud-config-repo" firstStartUp="false" />
     <entry projectName="iview-admin-master" firstStartUp="false" />
     <entry projectName="qrcode-utils" firstStartUp="false" />
     <entry projectName="sms" firstStartUp="false" />
