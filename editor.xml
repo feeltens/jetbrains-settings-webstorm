@@ -10,4 +10,11 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\b(ds)\b.*" />
+    <filter name="ds">
+      <pattern index="1" />
+    </filter>
+  </component>
 </application>
