@@ -15,6 +15,7 @@
     <pattern pattern="\b(ds)\b.*" />
     <pattern pattern="\b(ds LIS)\b.*" />
     <pattern pattern="\b(ds LIS2)\b.*" />
+    <pattern pattern="\b(asso-ds)\b.*" />
     <filter name="ds">
       <pattern index="1" />
     </filter>
@@ -23,6 +24,9 @@
     </filter>
     <filter name="ds LIS2">
       <pattern index="3" />
+    </filter>
+    <filter name="asso-ds">
+      <pattern index="4" />
     </filter>
   </component>
 </application>
