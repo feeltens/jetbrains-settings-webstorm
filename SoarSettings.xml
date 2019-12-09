@@ -1,0 +1,23 @@
+<application>
+  <component name="SoarSettings">
+    <option name="connectionTimeout" value="30" />
+    <option name="fileConfigBlackListLFilePath" value="$USER_HOME$/.soar/soar.blacklist" />
+    <option name="fileConfigYamlFilePath" value="$USER_HOME$/.soar/soar.yaml" />
+    <option name="onlineDBHost" value="" />
+    <option name="onlineDBPassword" value="" />
+    <option name="onlineDBPort" value="3306" />
+    <option name="onlineDBUrl" value="jdbc:mysql://:3306/" />
+    <option name="onlineDBUser" value="" />
+    <option name="onlineDSN" value=":@:3306/" />
+    <option name="onlineDatabase" value="" />
+    <option name="queryTimeout" value="30" />
+    <option name="soarLocation" value="$USER_HOME$/.soar/soar" />
+    <option name="testDBHost" value="" />
+    <option name="testDBPassword" value="" />
+    <option name="testDBPort" value="3306" />
+    <option name="testDBUrl" value="jdbc:mysql://:3306/" />
+    <option name="testDBUser" value="" />
+    <option name="testDSN" value=":@:3306/" />
+    <option name="testDatabase" value="" />
+  </component>
+</application>
