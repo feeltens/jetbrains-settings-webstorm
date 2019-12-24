@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="/Volumes/data/work/ms-projects/cold-chain-huzhou" firstStartUp="false" />
     <entry projectName="cold-chain" firstStartUp="false" />
+    <entry projectName="cold-chain-huzhou" firstStartUp="false" />
     <entry projectName="config-repo" firstStartUp="false" />
     <entry projectName="healthcloud-archetype" firstStartUp="false" />
     <entry projectName="hello-spring-cloud" firstStartUp="false" />
