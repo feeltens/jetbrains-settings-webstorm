@@ -82,6 +82,10 @@
           <option name="url" value="http://192.168.20.52:8081/root/vap-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.31.33:40080" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/data/work/projects" />
